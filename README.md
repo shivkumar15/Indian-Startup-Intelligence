@@ -250,7 +250,10 @@ Planned improvements include:
 
 B.Tech – Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
-GitHub: https://github.com/shivkumar15
+- GitHub: https://github.com/shivkumar15
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username/
+
+For questions, suggestions, or collaboration opportunities, feel free to connect.
 
 ---
 
